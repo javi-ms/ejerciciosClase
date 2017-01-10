@@ -1,0 +1,44 @@
+h1{
+	text-align: center;	
+}
+
+#tablaUno{
+width:700px;
+position:relative;
+float: left;
+height: auto;
+
+}
+#tablaDos{
+width:10px;
+position:relative;
+float: left;
+height: auto;
+}
+
+#alindice{
+	text-align: center;
+	align: center;
+}
+
+td{
+
+	margin: 1000px;
+}
+
+th{
+	text-align: center;
+}
+
+table {
+    border: 1px solid black;
+    
+}
+#derechaAl{
+	text-align: right;
+
+}
+#aliFoot{
+
+	text-align: right;
+}

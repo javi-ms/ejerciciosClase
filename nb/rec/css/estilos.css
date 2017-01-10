@@ -1,0 +1,20 @@
+body{
+ 	text-align:justify;
+}
+li, #nTD{
+	font-weight: bold;	
+}
+table{
+	border-width: 1px;
+}
+tr{
+	text-align: center;		
+}
+#notas{
+	text-align: justify;
+}
+#titulos{
+	font-weight: bold;
+}
+
+
